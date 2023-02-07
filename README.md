@@ -1,5 +1,18 @@
 # AirBnB clone
 
+# Description
+This is the first phase of a four phase project, to create a basic clone of the AirBnB web app. 
+In this first phase a basic console was created using the Cmd Python module, to manage the objects of the whole project, being able to implement the methods create, show, update, all, and destroy to the existing classes and subclasses.
+
+# General Use
+Step 1. Clone the repository and cd into the repository
+
+Step 2. Inside the repository, there is a "console.py" file which contains the command line interpreter. Run this command in the terminal to see how it works "$ python3 console.py"
+
+Step 3. When this command is run this appears (hbnb)
+
+Step 4. Type ? to view all the commands in the interpreter
+
 # Resources
 1. [cmd module](https://docs.python.org/3.8/library/cmd.html)
 2. [cmd module in depth](http://pymotw.com/2/cmd/)
