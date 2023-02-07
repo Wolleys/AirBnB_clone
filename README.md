@@ -117,3 +117,7 @@ $
 ```
 
 All tests should also pass in non-interactive mode: `$ echo "python3 -m unittest discover tests" | bash`
+
+## Authors
+* [Wolleys Migaya](https://github.com/Wolleys)
+* [Amwenya Nehondo](https://github.com/JAmwenya)
